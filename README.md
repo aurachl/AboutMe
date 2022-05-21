@@ -1,6 +1,6 @@
 <h1 align='center'>🚀 About Me! 🚀</h1>
 
-```JavaScript
+```python
 class SecurityAnalyst: 🔐
     def __init__(self):
         self.name = "Aura" 🌸
