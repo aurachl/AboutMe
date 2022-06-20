@@ -3,6 +3,7 @@
 ```python
 class SecurityAnalyst: 🔐
     def __init__(self):
+        self.pronouns: "she" | "her"
         self.name = "Aura" 🌸
         self.role = "Security Analyst"
         self.language_spoken = ["es_ES", "en_US"] 🇬🇹
